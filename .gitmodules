@@ -1,0 +1,3 @@
+[submodule "skills/code-video-showcase"]
+	path = skills/code-video-showcase
+	url = https://github.com/Moessif/code-video-showcase.git
